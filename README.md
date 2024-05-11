@@ -1,2 +1,2 @@
 # bookbot
-This is my first git project!
+testing the remote configuration
