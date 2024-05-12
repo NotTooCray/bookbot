@@ -1,2 +1,2 @@
 # bookbot
-testing the remote configuration
+just playing around with python
